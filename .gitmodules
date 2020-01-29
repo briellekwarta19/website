@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/briellekwarta19/briellekwarta19.github.io.git
+	branch = master
