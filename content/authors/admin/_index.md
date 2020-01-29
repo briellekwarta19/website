@@ -1,8 +1,8 @@
 ---
 authors:
-- admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+- Brielle Kwarta
+bio: My research interests include quantitative ecology, invasion biology, freshwater conservation
+
 education:
   courses:
   - course: PhD in Artificial Intelligence
